@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BooksDemo</string>
+    <string name="empty_list_message">List empty. Search for a book in the above search box to display a list of books.</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search book, volume etc</string>
+    <string name="sort">Sort</string>
+    <string name="sort_by_author">By Author</string>
+    <string name="sort_by_title">By Title</string>
+
+</resources>
